@@ -1,0 +1,1 @@
+{'meta': {'fund_house': 'Standard Chartered Mutual Fund', 'scheme_type': 'Close Ended Schemes', 'scheme_category': 'Income', 'scheme_code': 102997, 'scheme_name': 'Grindlays Fixed Maturity 4th Plan-B-Growth'}, 'data': [{'date': '12-04-2006', 'nav': '10.62370'}, {'date': '05-04-2006', 'nav': '10.61230'}], 'status': 'SUCCESS'}

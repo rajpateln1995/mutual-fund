@@ -1,0 +1,1 @@
+{'meta': {'fund_house': 'IDFC Mutual Fund', 'scheme_type': 'Open Ended Schemes', 'scheme_category': 'Income', 'scheme_code': 108651, 'scheme_name': 'GFRF (Dividend - Weekly)'}, 'data': [{'date': '03-07-2008', 'nav': '10.07740'}], 'status': 'SUCCESS'}

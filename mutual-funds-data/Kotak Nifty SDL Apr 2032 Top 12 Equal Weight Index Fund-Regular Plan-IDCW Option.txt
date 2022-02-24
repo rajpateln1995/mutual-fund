@@ -1,0 +1,1 @@
+{'meta': {'fund_house': 'Kotak Mahindra Mutual Fund', 'scheme_type': 'Open Ended Schemes', 'scheme_category': 'Other Scheme - Index Funds', 'scheme_code': 149866, 'scheme_name': 'Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Regular Plan-IDCW Option'}, 'data': [{'date': '21-02-2022', 'nav': '10.03880'}, {'date': '18-02-2022', 'nav': '10.02280'}], 'status': 'SUCCESS'}

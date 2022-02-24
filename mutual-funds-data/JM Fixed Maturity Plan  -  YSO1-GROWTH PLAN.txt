@@ -1,0 +1,1 @@
+{'meta': {'fund_house': 'JM Financial Mutual Fund', 'scheme_type': 'Open Ended Schemes', 'scheme_category': 'Income', 'scheme_code': 102964, 'scheme_name': 'JM Fixed Maturity Plan  -  YSO1-GROWTH PLAN'}, 'data': [{'date': '03-04-2006', 'nav': '10.62880'}], 'status': 'SUCCESS'}

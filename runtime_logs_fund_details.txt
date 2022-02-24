@@ -1,0 +1,255 @@
+Expecting ',' delimiter: line 1 column 205 (char 204)SBI Magnum Children s Benefit Fund - REGULAR PLAN - GROWTH101169
+Expecting ',' delimiter: line 1 column 205 (char 204)SBI Magnum Children s Benefit Fund - Savings Plan - REGULAR PLAN - GROWTH101169
+Expecting ',' delimiter: line 1 column 201 (char 200)LIC MF Children s Gift Fund-Regular Plan-Growth101271
+Expecting ',' delimiter: line 1 column 207 (char 206)Tata Young Citizens  Fund -Regular Plan-Growth Option101491
+Expecting ',' delimiter: line 1 column 207 (char 206)Tata Young Citizen -Regular Plan-Growth101491
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN  D 102108
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 20 s Plan - IDCW 102108
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 30S PLAN  D 102110
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 30 s Plan - IDCW 102110
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 40 s Plan - IDCW 102111
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 40S PLAN  D 102111
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50 S PLAN  D 102113
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 50 s Plus Plan - IDCW 102113
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund Of Funds - 50 s Plus Floating Rate Plan - IDCW 102546
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds The 50s Plus Flo  Div 102546
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund -Regular - IDCW103154
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund - Regular Plan-Dividend103154
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund - Regular Plan-Growth103155
+Expecting ',' delimiter: line 1 column 215 (char 214)Aditya Birla Sun Life Tax Relief  96 - Dividend Option103164
+Expecting ',' delimiter: line 1 column 215 (char 214)Aditya Birla Sun Life Tax Relief  96 -Regular - IDCW103164
+Expecting ',' delimiter: line 1 column 182 (char 181)Canara Robeco Fortune  94103272
+Expecting ',' delimiter: line 1 column 187 (char 186)Reliance Fixed Tenor Fund-Plan  A -Growth Option103412
+Expecting ',' delimiter: line 1 column 187 (char 186)Reliance Fixed Tenor Fund-Plan  A -Dividend Option103413
+Expecting ',' delimiter: line 1 column 187 (char 186)Reliance Fixed Tenor Fund Plan   B  -PLAN-Growth Option103480
+Expecting ',' delimiter: line 1 column 187 (char 186)Reliance Fixed Tenor Fund Plan   B  -PLAN-Dividend Option103481
+Expecting ',' delimiter: line 1 column 187 (char 186)JM FMF SERIES II-QUARTERLY  A -Dividend Plan103595
+Expecting ',' delimiter: line 1 column 187 (char 186)JM FMF SERIES II-QUARTERLY  A -Growth Plan103596
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  B  Series-II-PLAN  B -Growth Option103609
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  B  Series-II-PLAN  B -Dividend Option103610
+Expecting ',' delimiter: line 1 column 186 (char 185)JM FMF SERIES II - YEARLY  A -Growth Plan103653
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  A  Series-II-PLAN  A -Dividend Option103666
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  A  Series-II-PLAN  A -Growth Option103667
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  A  Series-I-PLAN  A -Growth Option103771
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  A  Series-I-PLAN  A -Dividend Option103772
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  B  Series - I-PLAN  B -Growth Option103798
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  B  Series - I-PLAN  B -Dividend Option103799
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-III - Dividend Plan - Dividend Option103995
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-III - Growth Plan - Growth Option103996
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  B  Series-III Growth Option104039
+Expecting ',' delimiter: line 1 column 188 (char 187)Reliance Fixed Horizon Fund Plan B  Series-III Dividend Option104040
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-IV Dividend Option104086
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-IV Growth Option104088
+Expecting ',' delimiter: line 1 column 188 (char 187)Reliance Fixed Horizon Fund Plan B  Series-IV Dividend Option104144
+Expecting ',' delimiter: line 1 column 188 (char 187)Reliance Fixed Horizon Fund Plan B  Series-IV Grwoth Option104145
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-V-Growth Option104162
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-V-Dividend Option104163
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  B  Series- V-Growth Option104197
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  B  Series- V-Dividend Option104198
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -I Retail Plan-Dividend Option104225
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -I Retail Plan-Growth Option104226
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-I Institutional Plan-Dividend Option104227
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-I Institutional Plan-Growth Option104228
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-VI-Growth Option104243
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-VI-Dividend Option104244
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-III-Retail Plan Growth Option104298
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-III-Retail Plan Dividend Option104299
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-III-Institutional Plan Growth Option104300
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-III-Institutional Plan Dividend Option104301
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -II Retail Plan-Growth Option104714
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -II Retail Plan-Dividend Option104715
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -II-Institutional Plan -Growth Option104716
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -II-Institutional Plan -Dividend Option104717
+[Errno 2] No such file or directory: 'mutual-funds-data/\xa0\xa0\xa0\xa0ABN AMRO Fixed Term Plan - Series 5  Quarterly Plan A - Monthly Dividend Option.txt'    ABN AMRO Fixed Term Plan - Series 5  Quarterly Plan A - Monthly Dividend Option105579
+[Errno 2] No such file or directory: 'mutual-funds-data/\xa0\xa0\xa0\xa0ABN AMRO Fixed Term Plan - Series 5  Quarterly Plan A-Growth Option.txt'    ABN AMRO Fixed Term Plan - Series 5  Quarterly Plan A-Growth Option105580
+[Errno 2] No such file or directory: 'mutual-funds-data/\xa0\xa0\xa0\xa0ABN AMRO Fixed Term Plan - Series 5  Quarterly Plan A - Dividend on Maturity Option.txt'    ABN AMRO Fixed Term Plan - Series 5  Quarterly Plan A - Dividend on Maturity Option105581
+Expecting ',' delimiter: line 1 column 194 (char 193)UTI Fixed Maturity Plan Quarterly February  08 Series I - Growth Option107679
+Expecting ',' delimiter: line 1 column 194 (char 193)UTI Fixed Maturity Plan Quarterly February  08 Series I - Dividend Option107680
+Expecting ',' delimiter: line 1 column 194 (char 193)UTI Fixed Maturity Plan Quarterly February  08 Series I - Institutional Growth Option107681
+Expecting ',' delimiter: line 1 column 194 (char 193)UTI Fixed Maturity Plan Quarterly February  08 Series I - Institutional Dividend Option107682
+Expecting ',' delimiter: line 1 column 215 (char 214)Aditya Birla Sun Life Tax Relief  96 - Growth Option107745
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI Fixed Term Income Fund S-V - P-I  13 Mths  - Instn Growth Option\t.txt'UTI Fixed Term Income Fund S-V - P-I  13 Mths  - Instn Growth Option	109388
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI-FTIF Sr.V Plan IV   13 Mts  - Dividend Option\t.txt'UTI-FTIF Sr.V Plan IV   13 Mts  - Dividend Option	110138
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI Fixed Maturity Plan Yearly Series -Sept 09 - Instn Growth Option\t.txt'UTI Fixed Maturity Plan Yearly Series -Sept 09 - Instn Growth Option	112250
+[Errno 22] Invalid argument: 'mutual-funds-data/1.\tBenchmark Short Term Fund - Growth Option.txt'1.	Benchmark Short Term Fund - Growth Option113059
+[Errno 22] Invalid argument: 'mutual-funds-data/2.\tBenchmark Short Term Fund - Dividend Reinvestment Option - Daily Frequency.txt'2.	Benchmark Short Term Fund - Dividend Reinvestment Option - Daily Frequency113060
+[Errno 22] Invalid argument: 'mutual-funds-data/3.\tBenchmark Short Term Fund - Dividend Reinvestment Option - Weekly Frequency.txt'3.	Benchmark Short Term Fund - Dividend Reinvestment Option - Weekly Frequency113061
+Expecting ',' delimiter: line 1 column 178 (char 177)Fidelity India Children s Plan - Education Fund -Growth option114500
+Expecting ',' delimiter: line 1 column 178 (char 177)Fidelity India Children s Plan - Education Fund -Dividend Option114501
+Expecting ',' delimiter: line 1 column 178 (char 177)Fidelity India Children s Plan - Marriage Fund -Growth option114502
+Expecting ',' delimiter: line 1 column 178 (char 177)Fidelity India Children s Plan - Marriage Fund -Dividend option114503
+Expecting ',' delimiter: line 1 column 178 (char 177)Fidelity India Children s Plan - Savings Fund -Growth option114504
+Expecting ',' delimiter: line 1 column 178 (char 177)Fidelity India Children s Plan - Savings Fund -Dividend option114505
+[Errno 2] No such file or directory: 'mutual-funds-data/ IDFC FMP - MS - 30 - DIVIDEND.txt' IDFC FMP - MS - 30 - DIVIDEND114937
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI - FMP Quarterly Series Feb 2012 - Growth Option\t.txt'UTI - FMP Quarterly Series Feb 2012 - Growth Option	116740
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI-FMP-Yearly Series Feb 2012- Growth Option\t.txt'UTI-FMP-Yearly Series Feb 2012- Growth Option	116845
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI-FTIF Sr. X Plan IX  368 Days  - Growth Option\t.txt'UTI-FTIF Sr. X Plan IX  368 Days  - Growth Option	116922
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI-FTIF Series-XI  Plan II  400 Days  - Dividend Option\t.txt'UTI-FTIF Series-XI  Plan II  400 Days  - Dividend Option	116964
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI-FTIF Series-XI Plan VI  367 Days  - Growth Option\t.txt'UTI-FTIF Series-XI Plan VI  367 Days  - Growth Option	117187
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI-FTIF Series-XII Plan IV  369 Days  - Growth Option\t.txt'UTI-FTIF Series-XII Plan IV  369 Days  - Growth Option	117702
+[Errno 22] Invalid argument: 'mutual-funds-data/UTI-FTIF Series-XII Plan VII  366 Days  - Growth Option\t.txt'UTI-FTIF Series-XII Plan VII  366 Days  - Growth Option	117862
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 20 s Plan - Direct - IDCW 118511
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN - Direct - Dividend118511
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 30 s Plan - Direct - IDCW 118513
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - The 30s Plan - Direct - Dividend118513
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 40 s Plan - Direct - IDCW 118515
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - The 40s Plan - Direct - Dividend118515
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 50 s Plus Plan - Direct - IDCW 118517
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - The 50s Plus - Direct - Dividend118517
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 50 s Plus Floating Rate Plan - Direct - IDCW 118520
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund Of Funds - The 50S Plus Floating Rate Plan - Direct - Dividend118520
+Expecting ',' delimiter: line 1 column 189 (char 188)Templeton India CHILDREN s ASSET PLAN EDUCATION - Direct - Growth118521
+Expecting ',' delimiter: line 1 column 189 (char 188)Templeton India CHILDREN s ASSET PLAN GIFT - Direct - Dividend118522
+Expecting ',' delimiter: line 1 column 189 (char 188)Templeton India CHILDREN s ASSET PLAN GIFT - Direct - Growth118523
+Expecting ',' delimiter: line 1 column 171 (char 170)Tata Young Citizens  Fund  Upto 3 years -Direct Plan Growth119296
+Expecting ',' delimiter: line 1 column 171 (char 170)Tata Young Citizens  Fund    3 years upto 7 years -Direct Plan Growth119299
+Expecting ',' delimiter: line 1 column 207 (char 206)Tata Young Citizens  Fund-Direct Plan-Growth119312
+Expecting ',' delimiter: line 1 column 207 (char 206)Tata Young Citizens  Fund-Direct Plan-Growth Option119312
+Expecting ',' delimiter: line 1 column 215 (char 214)Aditya Birla Sun Life Tax Relief  96 -DIRECT - IDCW119543
+Expecting ',' delimiter: line 1 column 215 (char 214)Aditya Birla Sun Life Tax Relief  96 - Dividend - Direct Plan119543
+Expecting ',' delimiter: line 1 column 215 (char 214)Aditya Birla Sun Life Tax Relief  96 - Growth - Direct Plan119544
+Expecting ',' delimiter: line 1 column 205 (char 204)SBI Magnum Children s Benefit Fund - DIRECT PLAN - GROWTH119719
+Expecting ',' delimiter: line 1 column 205 (char 204)SBI Magnum Children s Benefit Fund - Savings Plan - DIRECT PLAN - GROWTH119719
+Expecting ',' delimiter: line 1 column 201 (char 200)LIC MF Children s Gift Fund-Direct Plan-Growth120285
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund - Direct Plan-Growth120517
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund - Direct Plan-Dividend120518
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund -DIRECT - IDCW120518
+[Errno 22] Invalid argument: 'mutual-funds-data/Baroda Pioneer Fixed Maturity Plan Series H -Plan B  Direct  -Growth \t.txt'Baroda Pioneer Fixed Maturity Plan Series H -Plan B  Direct  -Growth 	125677
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  Dual Advantage Fund - Series 39 - 36M - Regular Plan - Growth135337
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  Dual Advantage Fund - Series 39 - 36M - Regular Plan - Dividend Payout Option135338
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  Dual Advantage Fund - Series 39 - 36M - Direct Plan - Dividend Payout Option135339
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  Dual Advantage Fund - Series 39 - 36M - Direct Plan - Growth135340
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - Lock in - Regular Growth135759
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - Lock in - Growth135759
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - Lock in - Regular Plan - IDCW135760
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - Lock in - Dividend135760
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - Lock in - Regular Dividend135760
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - without Lock in - Dividend135761
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - No Lock in - Regular Plan - IDCW135761
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - No Lock in - Regular Plan - Dividend135761
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - Lock in - Direct Growth135762
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - No Lock in - Direct Dividend135763
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - without Lock in - Direct Dividend135763
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - No Lock in - Direct Plan - IDCW135763
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - without Lock in - Direct Growth135764
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - No Lock in - Direct Growth135764
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - Lock in - Direct Plan - IDCW135765
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - Lock in - Direct Dividend135765
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - without Lock in - Growth135766
+Expecting ',' delimiter: line 1 column 200 (char 199)Axis Children s Gift Fund - No Lock in - Regular Plan - Growth135766
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Sr 14 - Regular Plan - Growth Option140261
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Sr 14 - Regular Plan - Dividend Option140262
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Sr 14 - Direct Plan - Growth Option140263
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Sr 14 - Direct Plan - Dividend Option140264
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Series 20 - Regular Plan - Growth Option140269
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Series 20 - Regular Plan - Dividend Option140270
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Series 20 - Direct Plan - Growth Option140271
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Series 20 - Direct Plan - Dividend Option140272
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Series 40 - Regular Plan - Growth Option140329
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Series 40 - Direct Plan - Growth Option140330
+Expecting ',' delimiter: line 1 column 135 (char 134)Edelweiss Fixed Maturity Plan - Series 40 - Regular Plan - Dividend Option140332
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP  A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Regular Plan - Growth141969
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Regular Plan - Growth141969
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Regular Plan - Dividend Payout141970
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Regular Plan -  Dividend Payout141970
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP  A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Regular Plan -  Dividend Payout141970
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP  A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Direct Plan - Growth141971
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Direct Plan - Growth141971
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Direct Plan - Dividend Payout141972
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP  A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Direct Plan -  Dividend Payout141972
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 1 - Direct Plan -  Dividend Payout141972
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Direct Plan - Dividend Payout142497
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Direct Plan - IDCW - Payout142497
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP  A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Direct Plan - Dividend Payout142497
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Regular Plan - Growth142498
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP  A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Regular Plan - Growth142498
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Direct Plan - Growth142499
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP  A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Direct Plan - Growth142499
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Regular Plan - IDCW - Payout142500
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP  A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Regular Plan - Dividend Payout142500
+Expecting ',' delimiter: line 1 column 175 (char 174)DSP A.C.E. Fund  Analyst s Conviction Equalized  - Series 2 - Regular Plan - Dividend Payout142500
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 222 - 3M - Regular Plan - Dividend Payout142594
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 222 - 3M - Direct Plan - Growth142595
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 222 - 3M - Direct Plan - Dividend Quarterly Payout142596
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 222 - 3M - Regular Plan - Growth142597
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 222 - 3M - Direct Plan - Dividend Payout142598
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 222 - 3M - Regular Plan - Dividend Quarterly Payout142599
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 228 - 3M - Regular Plan - Growth143294
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 228 - 3M - Regular Plan - Dividend Payout143295
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 228 - 3M - Direct Plan - Growth143296
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 228 - 3M - Direct Plan - Dividend Quarterly Payout143297
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 228 - 3M - Regular Plan - Dividend Quarterly Payout143298
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 228 - 3M - Direct Plan - Dividend Payout143299
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 231 - 3M - Regular Plan - Growth143586
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 231 - 3M - Direct Plan - Dividend Payout143589
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 231 - 3M - Direct Plan - Dividend Quarterly Payout143590
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP  FMP Series - 231 - 3M - Direct Plan - Growth143591
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP FMP Series - 242 - 3M - Regular Plan - Growth144581
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP FMP Series - 242 - 3M - Regular Plan - Dividend Quarterly Payout144583
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP FMP Series - 242 - 3M - Direct Plan - Growth144584
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP FMP Series - 242 - 3M - Direct Plan - Dividend Quarterly Payout144585
+Expecting ',' delimiter: line 1 column 129 (char 128)DSP FMP Series - 242 - 3M - Direct Plan - Dividend Payout144586
+Expecting ',' delimiter: line 1 column 205 (char 204)SBI Magnum Children s Benefit Fund - Investment Plan - Regular Plan - Growth148489
+Expecting ',' delimiter: line 1 column 205 (char 204)SBI Magnum Children s Benefit Fund - Investment Plan - Direct Plan - Growth148490
+Expecting ',' delimiter: line 1 column 205 (char 204)SBI Magnum Children s Benefit Fund - REGULAR PLAN - GROWTH101169
+Expecting ',' delimiter: line 1 column 205 (char 204)SBI Magnum Children s Benefit Fund - Savings Plan - REGULAR PLAN - GROWTH101169
+Expecting ',' delimiter: line 1 column 201 (char 200)LIC MF Children s Gift Fund-Regular Plan-Growth101271
+Expecting ',' delimiter: line 1 column 207 (char 206)Tata Young Citizens  Fund -Regular Plan-Growth Option101491
+Expecting ',' delimiter: line 1 column 207 (char 206)Tata Young Citizen -Regular Plan-Growth101491
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN  D 102108
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 20 s Plan - IDCW 102108
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 30S PLAN  D 102110
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 30 s Plan - IDCW 102110
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 40 s Plan - IDCW 102111
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 40S PLAN  D 102111
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 50 S PLAN  D 102113
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds - 50 s Plus Plan - IDCW 102113
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund Of Funds - 50 s Plus Floating Rate Plan - IDCW 102546
+Expecting ',' delimiter: line 1 column 230 (char 229)Franklin India Life Stage Fund of Funds The 50s Plus Flo  Div 102546
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund -Regular - IDCW103154
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund - Regular Plan-Dividend103154
+Expecting ',' delimiter: line 1 column 235 (char 234)Aditya Birla Sun Life Equity Hybrid 95 Fund - Regular Plan-Growth103155
+Expecting ',' delimiter: line 1 column 215 (char 214)Aditya Birla Sun Life Tax Relief  96 - Dividend Option103164
+Expecting ',' delimiter: line 1 column 215 (char 214)Aditya Birla Sun Life Tax Relief  96 -Regular - IDCW103164
+Expecting ',' delimiter: line 1 column 182 (char 181)Canara Robeco Fortune  94103272
+Expecting ',' delimiter: line 1 column 187 (char 186)Reliance Fixed Tenor Fund-Plan  A -Growth Option103412
+Expecting ',' delimiter: line 1 column 187 (char 186)Reliance Fixed Tenor Fund-Plan  A -Dividend Option103413
+Expecting ',' delimiter: line 1 column 187 (char 186)Reliance Fixed Tenor Fund Plan   B  -PLAN-Growth Option103480
+Expecting ',' delimiter: line 1 column 187 (char 186)Reliance Fixed Tenor Fund Plan   B  -PLAN-Dividend Option103481
+Expecting ',' delimiter: line 1 column 187 (char 186)JM FMF SERIES II-QUARTERLY  A -Dividend Plan103595
+Expecting ',' delimiter: line 1 column 187 (char 186)JM FMF SERIES II-QUARTERLY  A -Growth Plan103596
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  B  Series-II-PLAN  B -Growth Option103609
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  B  Series-II-PLAN  B -Dividend Option103610
+Expecting ',' delimiter: line 1 column 186 (char 185)JM FMF SERIES II - YEARLY  A -Growth Plan103653
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  A  Series-II-PLAN  A -Dividend Option103666
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  A  Series-II-PLAN  A -Growth Option103667
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  A  Series-I-PLAN  A -Growth Option103771
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  A  Series-I-PLAN  A -Dividend Option103772
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  B  Series - I-PLAN  B -Growth Option103798
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund-Plan  B  Series - I-PLAN  B -Dividend Option103799
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-III - Dividend Plan - Dividend Option103995
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-III - Growth Plan - Growth Option103996
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  B  Series-III Growth Option104039
+Expecting ',' delimiter: line 1 column 188 (char 187)Reliance Fixed Horizon Fund Plan B  Series-III Dividend Option104040
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-IV Dividend Option104086
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-IV Growth Option104088
+Expecting ',' delimiter: line 1 column 188 (char 187)Reliance Fixed Horizon Fund Plan B  Series-IV Dividend Option104144
+Expecting ',' delimiter: line 1 column 188 (char 187)Reliance Fixed Horizon Fund Plan B  Series-IV Grwoth Option104145
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-V-Growth Option104162
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-V-Dividend Option104163
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  B  Series- V-Growth Option104197
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  B  Series- V-Dividend Option104198
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -I Retail Plan-Dividend Option104225
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -I Retail Plan-Growth Option104226
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-I Institutional Plan-Dividend Option104227
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-I Institutional Plan-Growth Option104228
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-VI-Growth Option104243
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  A  Series-VI-Dividend Option104244
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-III-Retail Plan Growth Option104298
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-III-Retail Plan Dividend Option104299
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-III-Institutional Plan Growth Option104300
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series-III-Institutional Plan Dividend Option104301
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -II Retail Plan-Growth Option104714
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -II Retail Plan-Dividend Option104715
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -II-Institutional Plan -Growth Option104716
+Expecting ',' delimiter: line 1 column 189 (char 188)Reliance Fixed Horizon Fund Plan  C  Series -II-Institutional Plan -Dividend Option104717
